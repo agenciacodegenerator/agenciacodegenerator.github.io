@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41745985.chunk.css",
+    "main.js": "/static/js/main.f37af5e0.chunk.js",
+    "main.js.map": "/static/js/main.f37af5e0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d3cf82e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d3cf82e2.js.map",
+    "static/js/2.5a77f83a.chunk.js": "/static/js/2.5a77f83a.chunk.js",
+    "static/js/2.5a77f83a.chunk.js.map": "/static/js/2.5a77f83a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1477af545eb0ed8a8726c41cac8dd5b1.js": "/precache-manifest.1477af545eb0ed8a8726c41cac8dd5b1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.41745985.chunk.css.map": "/static/css/main.41745985.chunk.css.map",
+    "static/js/2.5a77f83a.chunk.js.LICENSE.txt": "/static/js/2.5a77f83a.chunk.js.LICENSE.txt",
+    "static/media/beira-rio.jpg": "/static/media/beira-rio.de21d79f.jpg",
+    "static/media/c&a.jpg": "/static/media/c&a.6b20357f.jpg",
+    "static/media/globoplay.jpg": "/static/media/globoplay.a818deda.jpg",
+    "static/media/goodcard.jpg": "/static/media/goodcard.f4dff538.jpg",
+    "static/media/ipanema.jpg": "/static/media/ipanema.5c797695.jpg",
+    "static/media/logo.png": "/static/media/logo.d33bdd91.png",
+    "static/media/melissa.jpg": "/static/media/melissa.5c547d12.jpg",
+    "static/media/pompeia.jpg": "/static/media/pompeia.46091deb.jpg",
+    "static/media/rider.jpg": "/static/media/rider.fce4d9f8.jpg",
+    "static/media/swaap.jpg": "/static/media/swaap.0cc11400.jpg",
+    "static/media/taqi.jpg": "/static/media/taqi.cb4b9cd1.jpg",
+    "static/media/ticket-log.jpg": "/static/media/ticket-log.6ccc91c3.jpg",
+    "static/media/unicred.jpg": "/static/media/unicred.550ab1b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3cf82e2.js",
+    "static/js/2.5a77f83a.chunk.js",
+    "static/css/main.41745985.chunk.css",
+    "static/js/main.f37af5e0.chunk.js"
+  ]
+}
